@@ -1,8 +1,0 @@
-.git/
-.github/
-.idea/
-.gitignore
-*.py
-clearml.conf
-*.yml
-README.md
